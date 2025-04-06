@@ -24,4 +24,4 @@ AAS(Anti-AI-Searcher)는 **AI가 생성한 텍스트와 이미지를 감지하�
 |--------------|--------------|-------------------------|
 | **Jaechan Hwang**  | Team Leader | emperor0827@gmail.com  |
 | **Youngchan Go**   | Member      | dudcks3886@naver.com   |
-| **Chanhyuk Park**  | Member      | pch6560@gmail.com      |
+| **Chanhyuk Park**  | Member      | pch6590@gmail.com      |
